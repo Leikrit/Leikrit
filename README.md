@@ -1,11 +1,6 @@
 # Hi there 👋
-<div align=center>
 
-My Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/Leikrit/count.svg)
-
-</div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Leikrit&theme=xcode" /> </div>
 
 I am an undergraduate student at 🏫<a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. 
 
