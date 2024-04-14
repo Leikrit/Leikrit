@@ -1,11 +1,11 @@
 # Hi there 👋
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Leikrit&theme=xcode" /> </div>
+<!--
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome to Jerry Li's GitHub Space!&center=true&size=27"> </a> </h1>
 
 I am an undergraduate student at 🏫<a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. 
 
 For more information, please refer to my 😇<a href='https://leikrit.github.io/'>personal website</a>.
-
+-->
 <div align=center>
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leikrit&show_icons=true&theme=nord)
