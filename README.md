@@ -7,7 +7,9 @@ My Visitor Count
 
 </div>
 
-I am an undergraduate student at 🏫<a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. For more information, please refer to my 😇<a href='https://leikrit.github.io/'>personal website</a>.
+I am an undergraduate student at 🏫<a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. 
+
+For more information, please refer to my 😇<a href='https://leikrit.github.io/'>personal website</a>.
 
 <div align=center>
 
