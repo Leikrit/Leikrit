@@ -1,8 +1,10 @@
-# 👋 Hi there 
-
+# <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hi there 
+<!--
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome to Jerry Li's GitHub Space!&center=true&size=27"> </a> </h1>
-
+-->
 I am an undergraduate student at 🏫<a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. 
+
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Personal Website
 
 For more information, please refer to my 😇<a href='https://jinyili.top/'>personal website</a>.
 
